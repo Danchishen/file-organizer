@@ -1,0 +1,11 @@
+До:
+
+file.jpg
+report.pdf
+video.mp4
+
+После:
+
+images/file_2026-03-24_images_1.jpg
+documents/report_2026-03-24_documents_1.pdf
+videos/video_2026-03-24_videos_1.mp4
